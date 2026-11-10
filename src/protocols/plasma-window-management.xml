@@ -127,7 +127,7 @@
     </request>
   </interface>
 
-  <interface name="org_kde_plasma_window" version="21">
+  <interface name="org_kde_plasma_window" version="23">
     <description summary="interface to control application windows">
       Manages and control an application window.
 
